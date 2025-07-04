@@ -1,0 +1,12 @@
+.hello{
+    image-orientation: flip;
+}
+.title{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.card{
+    justify-content: center;
+   
+}
